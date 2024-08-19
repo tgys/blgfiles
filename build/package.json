@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "http": "^0.0.1-security"
+  },
+  "dependencies": {
+    "@deck.gl/arcgis": "^8.1.0",
+    "@deck.gl/core": "^8.1.0",
+    "@deck.gl/geo-layers": "^8.1.0",
+    "@deck.gl/layers": "^8.1.0"
+  }
+}

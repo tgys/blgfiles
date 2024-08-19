@@ -1,0 +1,3 @@
+/home/tbox/git_projects/blogscript/build/CMakeFiles/blogscript.dir
+/home/tbox/git_projects/blogscript/build/CMakeFiles/edit_cache.dir
+/home/tbox/git_projects/blogscript/build/CMakeFiles/rebuild_cache.dir
